@@ -16,6 +16,7 @@ install.packages("terra")
 install.packages("geodata")
 install.packages("predicts")
 
+# Testing that this worked. 
 
 # Download 19 bioclimatic variables from Worldclim using the geodata package, 
 # at a resolution of 2.5 minutes of a degree. 
